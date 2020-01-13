@@ -1,8 +1,8 @@
 # DAG Graph Analyzer
 Goal:
-  Use for Euclidean Matrix Analysis
-          Cosine Matrix Analysis
-          Tversky Similarity Matrix Analysis
+  Use for Euclidean Matrix Analysis,
+          Cosine Matrix Analysis,
+          Tversky Similarity Matrix Analysis,
           Linear Regression Analysis
           
 this project was done in Germany at Technische Universität Darmstadt.
